@@ -1,0 +1,56 @@
+/*#anamneza
+{
+    width: 80%;
+    height: 100px;
+}
+
+#fiz_nalaz
+{
+    height: 100px;
+    width:30%;
+}
+
+#dijagnoza
+{
+    height: 120px;
+    width:30%;
+}
+
+#terapija
+{
+    height: 120px;
+    width:30%;
+}*/
+
+.pt_data
+{
+    margin-bottom: 3rem;
+}
+
+input[type="text"] 
+{
+    width: 80%;
+    height: 30px;
+    background-color: #c9dbff;
+    border: 1px solid blue;
+}
+
+textarea
+{
+    background-color: #c9dbff;
+    border: 1px solid blue;
+    width: 80%;
+    height: 100px;
+}
+
+.div01
+{
+    border-left: 5px solid rgb(211, 208, 208);
+    
+}
+
+.div02
+{
+    border-left: 5px solid rgb(211, 208, 208);
+    
+}
